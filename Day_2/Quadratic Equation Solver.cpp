@@ -51,6 +51,7 @@ int main() {
 */
 
 /*
+======================TOPIC DISCUSSION====================================
   The discriminant is a term used in the context of quadratic equations,
   and it is part of the quadratic formula. 
   For a quadratic equation in the form (ax^2 + bx + c = 0), 
